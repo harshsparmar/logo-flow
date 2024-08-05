@@ -18,7 +18,7 @@ function App() {
         <div className="w-64 fixed">
           <SideNav selectedIndex={(value) => setSelectedIndex(value)} />
         </div>
-        <div className="ml-64 grid grid-cols-1 md:grid-cols-6 fixed">
+        <div className="ml-64 grid grid-cols-1 md:grid-cols-8 fixed w-full">
           <div className="md:col-span-2 border h-screen shadow-sm p-5 overflow-auto">
             {selectedIndex === 0 ? (
               <IconController />
@@ -26,7 +26,7 @@ function App() {
               <BackgroundController />
             )}
           </div>
-          <div className="md:col-span-3 ">
+          <div className="md:col-span-5 flex items-center justify-center h-screen pb-20 pr-20">
             <LogoPreview downloadIcon={downloadIcon} />
           </div>
         </div>
