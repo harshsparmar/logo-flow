@@ -33,6 +33,19 @@ function SideNav({ selectedIndex }) {
           </h2>
         ))}
       </div>
+      <div className="flex items-center justify-center">
+        <h2 className="text-sm text-gray-500 text-center fixed bottom-5">
+          Created By&nbsp;
+          <a
+            href="https://github.com/harshsparmar/logo-flow"
+            target="_blank"
+            class="text-blue-600 underline"
+          >
+            Harsh Parmar
+          </a>
+
+        </h2>
+      </div>
     </div>
   );
 }
