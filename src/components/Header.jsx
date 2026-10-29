@@ -6,6 +6,12 @@ function Header({ downloadIcon }) {
   return (
     <div className="p-4 shadow-sm border flex justify-between items-center ">
       <img src="/logo.svg" alt="logo" />
+      <a
+        href="https://www.harsh-p.dev"
+        className="text-sm text-muted-foreground hover:underline"
+      >
+        Built by Harsh Parmar
+      </a>
       <Button
         className="flex gap-2 items-center"
         onClick={() => downloadIcon(Date.now())}
