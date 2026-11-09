@@ -2,6 +2,10 @@
 
 Welcome to Logo Flow! This project offers a user-friendly interface for designing and customizing logos. Download your final design for free with ease.
 
+**Live demo:** [logoflow.harsh-p.dev](https://logoflow.harsh-p.dev)
+
+![Logo Flow screenshot](https://www.harsh-p.dev/assets/logoflow_preview.webp)
+
 ## Table of Contents
 
 - [Features](#features)
@@ -11,7 +15,7 @@ Welcome to Logo Flow! This project offers a user-friendly interface for designin
 
 ## Features
 
-- Browse and select from a wide range of icons using the Freepik API
+- Browse and select from a wide range of icons using the Iconify API
 - Customize icon colors using a React color picker
 - Choose different backgrounds for your logo
 - Real-time preview of the logo design
