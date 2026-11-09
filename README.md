@@ -67,4 +67,4 @@ To get a local copy up and running, follow these steps:
 
 Harsh Parmar - [GitHub](https://github.com/harshsparmar)
 
-Project Link: [https://logoflow.vercel.app/](https://logoflow.vercel.app/)
+Project Link: [https://logoflow.harsh-p.dev/](https://logoflow.harsh-p.dev/)
