@@ -4,7 +4,7 @@ Welcome to Logo Flow! This project offers a user-friendly interface for designin
 
 **Live demo:** [logoflow.harsh-p.dev](https://logoflow.harsh-p.dev)
 
-![Logo Flow screenshot](https://www.harsh-p.dev/assets/logoflow_preview.webp)
+![Logo Flow screenshot](screenshot.webp)
 
 ## Table of Contents
 
